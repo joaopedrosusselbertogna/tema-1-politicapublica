@@ -58,7 +58,7 @@ Por favor, escolha um apelido/código, o mesmo deverá ser inserido em cada um d
         <item id="returnToLocalPanelButtonText">Return to Control Panel</item>
 
         <!-- CONSENT: get permission from participants -->
-        <item id="consentTitleBarText">Research Consent</item>
+        <item id="consentTitleBarText">Termo de Consentimento Livre e Esclarecido</item>
         <item id="consentText">Você está sendo convidado(a) a participar da pesquisa intitulada &quot;Mapeamento da Avaliação de Políticas Públicas no IPEA&quot;, conduzida por pesquisadores(as) da instituição com o objetivo de compreender percepções e práticas relacionadas à avaliação de políticas públicas no Brasil.{{{br/}}}{{{br/}}} Sua participação é voluntária e consiste em responder a três blocos de afirmações, organizando-as conforme o quanto mais ou menos concorda com cada uma delas. Após essa etapa, solicitaremos algumas informações profissionais e sociodemográficas.{{{br/}}}{{{br/}}} Não há riscos envolvidos. As informações coletadas serão tratadas de forma anônima e confidencial, sendo utilizadas exclusivamente para fins acadêmicos e institucionais.{{{br/}}}{{{br/}}} Ao clicar em &quot;Concordo&quot;, você declara que leu e entendeu as informações acima e concorda voluntariamente em participar da pesquisa.</item>
         <item id="consentHelpModalHead">Informações de contato</item>
         <item id="consentHelpModalText">Muito obrigado por participar dessa pesquisa. Dúvidas e sugestões podem ser enviadas para o e-mail: joao.bertogna@ipea.gov.br.</item>
