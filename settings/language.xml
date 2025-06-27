@@ -82,7 +82,7 @@
         <item id="sortDisagreement">Discordo/Concordo Menos</item>
         <item id="condOfInst">Classifique as afirmações de acordo com sua percepção a respeito de Políticas Públicas</item>
         <item id="sortingCompleteModalHead">Sorting Complete</item>
-        <item id="sortingCompleteModalText">Você completou a triagem inicial. Por favor, reserve um momento para confirmar o seu posicionamento das afirmações.{{{br/}}}{{{br/}}}Quando você estiver satisfeito com a colocação deles, por favor, clique em {{{b}}}&quot;Continue&quot;{{{/b}}} no canto inferior direito da sua tela e continue para a próxima etapa.</item>
+        <item id="sortingCompleteModalText">Você completou a triagem inicial. Por favor, reserve um momento para confirmar o posicionamento das afirmações.{{{br/}}}{{{br/}}}Quando você estiver satisfeito com a colocação delas, por favor, clique em {{{b}}}&quot;Continue&quot;{{{/b}}} no canto inferior direito da sua tela e continue para a próxima etapa.</item>
         <item id="sortPreventNavModalHead">Navegação bloqueada</item>
         <item id="sortPreventNavModalText">Por favor, termine a ordenação da grade antes de passar para a próxima etapa.</item>
         <item id="sortOverloadedColumnModalHead">Navegação bloqueada</item>
